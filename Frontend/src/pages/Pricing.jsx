@@ -21,7 +21,7 @@ const Pricing = () => {
           {/* Monthly Plan */}
           <div className="bg-white shadow-lg rounded-lg p-6 text-center border border-gray-200">
             <h2 className="text-2xl font-semibold mb-4">Monthly</h2>
-            <p className="text-4xl font-bold mb-4">$9.99</p>
+            <p className="text-4xl font-bold mb-4">₹49</p>
             <p className="text-gray-600 mb-6">Billed monthly. Enjoy flexibility with no long-term commitment.</p>
             <button className="bg-blue-500 text-white px-6 py-3 rounded-lg text-lg font-semibold hover:bg-blue-600 transition duration-300">
               Subscribe Monthly
@@ -30,7 +30,7 @@ const Pricing = () => {
           {/* 6-Month Plan */}
           <div className="bg-white shadow-lg rounded-lg p-6 text-center border border-gray-200">
             <h2 className="text-2xl font-semibold mb-4">6 Months</h2>
-            <p className="text-4xl font-bold mb-4">$49.99</p>
+            <p className="text-4xl font-bold mb-4">₹299</p>
             <p className="text-gray-600 mb-6">Save with our 6-month plan. Ideal for medium-term use with significant savings.</p>
             <button className="bg-blue-500 text-white px-6 py-3 rounded-lg text-lg font-semibold hover:bg-blue-600 transition duration-300">
               Subscribe for 6 Months
@@ -39,7 +39,7 @@ const Pricing = () => {
           {/* Yearly Plan */}
           <div className="bg-white shadow-lg rounded-lg p-6 text-center border border-gray-200">
             <h2 className="text-2xl font-semibold mb-4">Yearly</h2>
-            <p className="text-4xl font-bold mb-4">$89.99</p>
+            <p className="text-4xl font-bold mb-4">₹499</p>
             <p className="text-gray-600 mb-6">Get the best value with our annual plan. Access to all features for a full year.</p>
             <button className="bg-blue-500 text-white px-6 py-3 rounded-lg text-lg font-semibold hover:bg-blue-600 transition duration-300">
               Subscribe Yearly
